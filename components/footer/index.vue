@@ -2,7 +2,7 @@
 <template>
   <div class="bg-black text-white mt-[35px] py-[35px] text-[14px]">
     <div
-      class="lt:container lt:px-0 mb:px-[33px] mx-auto grid tb:grid-cols-4 mb:grid-cols-1 tb:gap-6 border-b-[0.5px] border-gray-500 pb-8"
+      class="lt:container llt:px-0 mb:px-[33px] mx-auto grid tb:grid-cols-4 mb:grid-cols-1 tb:gap-6 border-b-[0.5px] border-gray-500 pb-8"
     >
       <!-- about -->
       <div class="flex flex-col items-start gap-y-6 mb:mb-8">

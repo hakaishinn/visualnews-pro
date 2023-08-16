@@ -5,7 +5,7 @@
     <compHeader />
 
     <!-- Content -->
-    <div class="lt:container lt:mx-auto lt:px-0 mb:px-[10px]">
+    <div class="llt:max-w-[1240px] lt:mx-auto llt:px-0 mb:px-[10px]">
       <!-- Left -->
       <!-- before marketing -->
       <div class="tb:grid tb:grid-cols-4 tb:gap-6 lt:gap-8">
@@ -131,7 +131,7 @@
 
               <div class="col-span-4">
                 <!-- ItemNews -->
-                <div class="lt:pb-5 lt:pt-0 border-b tb:pb-8 mb:py-5">
+                <div class="lt:pb-5 tb:pt-0 border-b tb:pb-8 mb:py-5">
                   <itemNews
                     :is-technolory="true"
                     author="TECHNOLOGY"
