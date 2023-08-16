@@ -8,7 +8,7 @@
     <div class="lt:container lt:mx-auto lt:px-0 mb:px-[10px]">
       <!-- Left -->
       <!-- before marketing -->
-      <div class="tb:grid tb:grid-cols-4 tb:gap-6 lt:gap:8">
+      <div class="tb:grid tb:grid-cols-4 tb:gap-6 lt:gap-8">
         <div class="col-span-3">
           <!-- main -->
           <div class="tb:grid tb:grid-cols-10 tb:gap-8 mb-7">
@@ -88,7 +88,7 @@
           </div>
 
           <!-- Business -->
-          <div class="mt-[45px]">
+          <div class="mt-8">
             <compBusiness>
               <titleHome
                 title="business"
@@ -103,7 +103,7 @@
           </div>
 
           <!-- Technology -->
-          <div class="mt-[45px]">
+          <div class="mt-8">
             <titleHome
               title="technolory"
               :sub-title="['sub cat 1', 'sub cat 2', 'sub cat 3', 'sub cat 4']"
@@ -160,7 +160,7 @@
           </div>
 
           <!-- LIFESTYLE -->
-          <div class="mt-[45px]">
+          <div class="mt-8">
             <compLifeStyle>
               <titleHome
                 title="LIFESTYLE"
@@ -175,7 +175,7 @@
           </div>
           <!-- Socical Media -->
 
-          <div class="mt-[45px]">
+          <div class="mt-8">
             <compSocialMedia>
               <titleHome
                 title="social media"
