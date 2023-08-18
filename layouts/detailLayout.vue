@@ -46,25 +46,25 @@
         <!-- follow us -->
         <div class="mt-8">
           <compFollowUs>
-            <titleHome title="follow us" />
+            <titleHome title="follow us" :is-follow-us="true"/>
           </compFollowUs>
         </div>
 
-        <!-- advertising -->
+        <!-- category name -->
         <div class="mt-8">
           <compCategoryName>
-            <titleHome title="category name" />
+            <titleHome title="category name" :is-follow-us="true"/>
           </compCategoryName>
         </div>
         <!-- recent posts -->
         <div class="mt-8">
           <compRecentPosts>
-            <titleHome title="recent posts" />
+            <titleHome title="recent posts" :is-follow-us="true"/>
           </compRecentPosts>
         </div>
         <div class="mt-8">
           <compTag>
-            <titleHome title="tag" />
+            <titleHome title="tag" :is-follow-us="true"/>
           </compTag>
         </div>
       </div>
